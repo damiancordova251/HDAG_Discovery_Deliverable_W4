@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import warnings
 warnings.filterwarnings('ignore')
-import time 
 
 
 st.title ("W4 Deliverable: Linear Regression and Streamlit")
